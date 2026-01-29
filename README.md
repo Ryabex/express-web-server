@@ -11,4 +11,4 @@ This test project cantains basic express web server
 `node index.js`
 
 ## Conecting to the server
-In the webrowser connect to http://localhost:3000
+In the webrowser connect to http://127.0.0.1:3000
