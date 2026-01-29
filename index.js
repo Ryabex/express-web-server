@@ -5,4 +5,4 @@ app.get('/', (req, res) => {
     res.send('Hello, World! From Express.js');
 });
 
-app.listen(3000); пш
+app.listen(3000);
